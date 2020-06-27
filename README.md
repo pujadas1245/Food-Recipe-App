@@ -2,6 +2,10 @@
 I have built a Food Recipe App using React JS where i show the recipes from https://developer.edamam.com/edamam-recipe-api
 User can search any recipe from the search bar also.
 
+![image](https://user-images.githubusercontent.com/28800749/85922514-93f87300-b8a1-11ea-8302-6a79c5b37aa1.png)
+
+![image](https://user-images.githubusercontent.com/28800749/85922543-ca35f280-b8a1-11ea-9b9b-f74467f3d0ea.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Create React App is the best way to start building a new single-page application in React.
 
